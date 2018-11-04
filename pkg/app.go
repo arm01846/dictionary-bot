@@ -34,6 +34,18 @@ func (app LineDictionaryApp) WebHook() http.HandlerFunc {
 		}
 		for _, event := range events {
 			log.Printf("%+v", event)
+			if event.Type == linebot.EventTypeMessage {
+				switch message := event.Message.(type) {
+				case *linebot.TextMessage:
+					if err := app.processText(message, event.ReplyToken); err != nil {
+						log.Println(err)
+					}
+				}
+			}
 		}
 	}
+}
+
+func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToken string) error {
+	return nil
 }
