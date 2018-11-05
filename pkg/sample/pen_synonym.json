@@ -1,0 +1,453 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "pen",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "he penned a great number of articles"
+                    }
+                  ],
+                  "id": "t_en_gb0010839.001",
+                  "synonyms": [
+                    {
+                      "id": "write",
+                      "language": "en",
+                      "text": "write"
+                    },
+                    {
+                      "id": "write_down",
+                      "language": "en",
+                      "text": "write down"
+                    },
+                    {
+                      "id": "jot_down",
+                      "language": "en",
+                      "text": "jot down"
+                    },
+                    {
+                      "id": "note",
+                      "language": "en",
+                      "text": "note"
+                    },
+                    {
+                      "id": "set_down",
+                      "language": "en",
+                      "text": "set down"
+                    },
+                    {
+                      "id": "take_down",
+                      "language": "en",
+                      "text": "take down"
+                    },
+                    {
+                      "id": "inscribe",
+                      "language": "en",
+                      "text": "inscribe"
+                    },
+                    {
+                      "id": "scribble",
+                      "language": "en",
+                      "text": "scribble"
+                    },
+                    {
+                      "id": "scrawl",
+                      "language": "en",
+                      "text": "scrawl"
+                    },
+                    {
+                      "id": "pencil",
+                      "language": "en",
+                      "text": "pencil"
+                    },
+                    {
+                      "id": "compose",
+                      "language": "en",
+                      "text": "compose"
+                    },
+                    {
+                      "id": "draft",
+                      "language": "en",
+                      "text": "draft"
+                    },
+                    {
+                      "id": "formulate",
+                      "language": "en",
+                      "text": "formulate"
+                    },
+                    {
+                      "id": "draw_up",
+                      "language": "en",
+                      "text": "draw up"
+                    },
+                    {
+                      "id": "dash_off",
+                      "language": "en",
+                      "text": "dash off"
+                    },
+                    {
+                      "id": "put_in_writing",
+                      "language": "en",
+                      "text": "put in writing"
+                    },
+                    {
+                      "id": "put_down_on_paper",
+                      "language": "en",
+                      "text": "put down on paper"
+                    },
+                    {
+                      "id": "commit_to_paper",
+                      "language": "en",
+                      "text": "commit to paper"
+                    },
+                    {
+                      "id": "put_in_black_and_white",
+                      "language": "en",
+                      "text": "put in black and white"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "homographNumber": "201",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "you should ask the owners to pen up their dogs"
+                    },
+                    {
+                      "text": "the use of interlocking metal barricades to pen protesters in"
+                    }
+                  ],
+                  "id": "t_en_gb0010840.002",
+                  "subsenses": [
+                    {
+                      "id": "idff1017d1-ee16-4505-b4d9-50cb64fa18a6",
+                      "synonyms": [
+                        {
+                          "id": "hurdle",
+                          "language": "en",
+                          "text": "hurdle"
+                        },
+                        {
+                          "id": "rail_in",
+                          "language": "en",
+                          "text": "rail in"
+                        },
+                        {
+                          "id": "coop",
+                          "language": "en",
+                          "text": "coop"
+                        },
+                        {
+                          "id": "coop_up",
+                          "language": "en",
+                          "text": "coop up"
+                        },
+                        {
+                          "id": "immure",
+                          "language": "en",
+                          "text": "immure"
+                        },
+                        {
+                          "id": "mew_up",
+                          "language": "en",
+                          "text": "mew up"
+                        },
+                        {
+                          "id": "box_in",
+                          "language": "en",
+                          "text": "box in"
+                        },
+                        {
+                          "id": "box_up",
+                          "language": "en",
+                          "text": "box up"
+                        },
+                        {
+                          "id": "lock_in",
+                          "language": "en",
+                          "text": "lock in"
+                        },
+                        {
+                          "id": "lock_up",
+                          "language": "en",
+                          "text": "lock up"
+                        },
+                        {
+                          "id": "cage",
+                          "language": "en",
+                          "text": "cage"
+                        },
+                        {
+                          "id": "imprison",
+                          "language": "en",
+                          "text": "imprison"
+                        },
+                        {
+                          "id": "intern",
+                          "language": "en",
+                          "text": "intern"
+                        },
+                        {
+                          "id": "hold_captive",
+                          "language": "en",
+                          "text": "hold captive"
+                        },
+                        {
+                          "id": "incarcerate",
+                          "language": "en",
+                          "text": "incarcerate"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idf3451aa7-9dfa-4c8e-8da1-65fece4852b9",
+                      "synonyms": [
+                        {
+                          "id": "encircle",
+                          "language": "en",
+                          "text": "encircle"
+                        },
+                        {
+                          "id": "surround",
+                          "language": "en",
+                          "text": "surround"
+                        },
+                        {
+                          "id": "ring",
+                          "language": "en",
+                          "text": "ring"
+                        },
+                        {
+                          "id": "encompass",
+                          "language": "en",
+                          "text": "encompass"
+                        },
+                        {
+                          "id": "hem_in",
+                          "language": "en",
+                          "text": "hem in"
+                        },
+                        {
+                          "id": "close_in",
+                          "language": "en",
+                          "text": "close in"
+                        },
+                        {
+                          "id": "hedge_in",
+                          "language": "en",
+                          "text": "hedge in"
+                        },
+                        {
+                          "id": "trap",
+                          "language": "en",
+                          "text": "trap"
+                        },
+                        {
+                          "id": "kettle",
+                          "language": "en",
+                          "text": "kettle"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id2e09db0b-60a7-49fe-ab79-37cda25e4d93",
+                      "regions": [
+                        "North American"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "corral",
+                          "language": "en",
+                          "text": "corral"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "confine",
+                      "language": "en",
+                      "text": "confine"
+                    },
+                    {
+                      "id": "enclose",
+                      "language": "en",
+                      "text": "enclose"
+                    },
+                    {
+                      "id": "impound",
+                      "language": "en",
+                      "text": "impound"
+                    },
+                    {
+                      "id": "shut_in",
+                      "language": "en",
+                      "text": "shut in"
+                    },
+                    {
+                      "id": "fence_in",
+                      "language": "en",
+                      "text": "fence in"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "text": "pen"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "the sheep in the pen behind the barn"
+                    }
+                  ],
+                  "id": "t_en_gb0010840.001",
+                  "subsenses": [
+                    {
+                      "id": "idc60ce742-5c06-4472-b271-f10afb1b6f02",
+                      "regions": [
+                        "North American"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "corral",
+                          "language": "en",
+                          "text": "corral"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id48ff6860-ca2f-4f44-8adc-c67977f65621",
+                      "regions": [
+                        "Scottish"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "parrock",
+                          "language": "en",
+                          "text": "parrock"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idda93deaf-5b4a-4e15-9b08-a378fc677023",
+                      "regions": [
+                        "South African"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "kraal",
+                          "language": "en",
+                          "text": "kraal"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idf1eacecc-6414-439e-b24b-4a22f96c62a0",
+                      "synonyms": [
+                        {
+                          "id": "potrero",
+                          "language": "en",
+                          "text": "potrero"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "enclosure",
+                      "language": "en",
+                      "text": "enclosure"
+                    },
+                    {
+                      "id": "fold",
+                      "language": "en",
+                      "text": "fold"
+                    },
+                    {
+                      "id": "sheepfold",
+                      "language": "en",
+                      "text": "sheepfold"
+                    },
+                    {
+                      "id": "pound",
+                      "language": "en",
+                      "text": "pound"
+                    },
+                    {
+                      "id": "compound",
+                      "language": "en",
+                      "text": "compound"
+                    },
+                    {
+                      "id": "paddock",
+                      "language": "en",
+                      "text": "paddock"
+                    },
+                    {
+                      "id": "stockade",
+                      "language": "en",
+                      "text": "stockade"
+                    },
+                    {
+                      "id": "sty",
+                      "language": "en",
+                      "text": "sty"
+                    },
+                    {
+                      "id": "coop",
+                      "language": "en",
+                      "text": "coop"
+                    },
+                    {
+                      "id": "cage",
+                      "language": "en",
+                      "text": "cage"
+                    },
+                    {
+                      "id": "stall",
+                      "language": "en",
+                      "text": "stall"
+                    },
+                    {
+                      "id": "lock-up",
+                      "language": "en",
+                      "text": "lock-up"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "text": "pen"
+        }
+      ],
+      "type": "headword",
+      "word": "pen"
+    }
+  ]
+}
