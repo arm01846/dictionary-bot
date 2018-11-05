@@ -90,5 +90,15 @@ func (oxford OxfordClient) extractSynonym(json []byte) []string {
 }
 
 func concatSynonyms(synonyms []string) string {
-	return ""
+	if len(synonyms) == 0 {
+		return ""
+	}
+
+	if len(synonyms) == 1 {
+		return synonyms[0]
+	}
+
+	result := strings.Join(synonyms[0:len(synonyms)-1], ", ")
+	result = result + " and " + synonyms[len(synonyms)-1]
+	return result
 }

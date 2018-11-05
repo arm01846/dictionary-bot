@@ -39,3 +39,22 @@ func Test_OxfordClient_extractSynonym(t *testing.T) {
 		assert.Nil(t, oxfordClient.extractSynonym(input))
 	})
 }
+
+func Test_concatSynonyms(t *testing.T) {
+	t.Run("no words, should return empty string", func(t *testing.T) {
+		assert.Equal(t, "", concatSynonyms(nil))
+		assert.Equal(t, "", concatSynonyms([]string{}))
+	})
+
+	t.Run("one word, should do nothing", func(t *testing.T) {
+		assert.Equal(t, "word", concatSynonyms([]string{"word"}))
+	})
+
+	t.Run("more than one word, should join with ',' and 'and' for the last word", func(t *testing.T) {
+		assert.Equal(t, "a and b", concatSynonyms([]string{"a", "b"}))
+		assert.Equal(t, "a, b and c", concatSynonyms([]string{"a", "b", "c"}))
+		assert.Equal(t, "a, b, c and d", concatSynonyms([]string{"a", "b", "c", "d"}))
+		assert.Equal(t, "a, b, c, d and e", concatSynonyms([]string{"a", "b", "c", "d", "e"}))
+	})
+
+}
