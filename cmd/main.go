@@ -8,13 +8,18 @@ import (
 )
 
 func main() {
-	var port = os.Getenv("PORT")
-	var lineConfiguration = bot.LineConfiguration{
+	port := os.Getenv("PORT")
+	lineConfiguration := bot.LineConfiguration{
 		LineToken: os.Getenv("LINE_TOKEN"),
 		LineSecret: os.Getenv("LINE_SECRET"),
 	}
 
-	app, err := bot.NewLineDictionaryApp(lineConfiguration)
+	oxfordConfiguration := bot.OxfordConfiguration{
+		AppID: os.Getenv("OXFORD_APPID"),
+		AppKey: os.Getenv("OXFORD_APPKEY"),
+	}
+
+	app, err := bot.NewLineDictionaryApp(lineConfiguration, oxfordConfiguration)
 	if err != nil {
 		log.Fatal(err)
 	}

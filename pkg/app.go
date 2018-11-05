@@ -60,7 +60,7 @@ func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToke
 	}
 
 	if meaning == "" {
-		app.bot.ReplyMessage(replyToken, &linebot.TextMessage{Text: "no meaning"})
+		app.bot.ReplyMessage(replyToken, &linebot.TextMessage{Text: "no meaning"}).Do()
 		return nil
 	}
 
@@ -73,9 +73,11 @@ func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToke
 		synonym = "no synonyms"
 	}
 
-	app.bot.ReplyMessage(replyToken,
+	if _, err := app.bot.ReplyMessage(replyToken,
 		&linebot.TextMessage{Text: meaning},
-		&linebot.TextMessage{Text: synonym}).Do()
+		&linebot.TextMessage{Text: synonym}).Do(); err != nil {
+		log.Println(err)
+	}
 
 	return nil
 }
