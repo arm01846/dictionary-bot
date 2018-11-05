@@ -1,9 +1,12 @@
 package bot
 
 import (
+	"fmt"
 	"github.com/line/line-bot-sdk-go/linebot"
 	"log"
 	"net/http"
+	"regexp"
+	"strings"
 )
 
 type LineDictionaryApp struct {
@@ -47,9 +50,14 @@ func (app LineDictionaryApp) WebHook() http.HandlerFunc {
 }
 
 func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToken string) error {
+	fmt.Println(message.Text)
 	return nil
 }
 
 func detectFirstWord(message string) string {
+	token := strings.Split(strings.TrimSpace(message), " ")
+	if ok, _ := regexp.MatchString("[a-zA-Z]+", token[0]); ok {
+		return token[0]
+	}
 	return ""
 }
