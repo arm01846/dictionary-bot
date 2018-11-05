@@ -1,7 +1,6 @@
 package bot
 
 import (
-	"fmt"
 	"github.com/line/line-bot-sdk-go/linebot"
 	"log"
 	"net/http"
@@ -11,16 +10,20 @@ import (
 
 type LineDictionaryApp struct {
 	bot *linebot.Client
+	oxfordClient *OxfordClient
 }
 
-func NewLineDictionaryApp(lineConfiguration LineConfiguration) (*LineDictionaryApp, error) {
+func NewLineDictionaryApp(lineConfiguration LineConfiguration, oxfordConfiguration OxfordConfiguration) (*LineDictionaryApp, error) {
 	bot, err := linebot.New(lineConfiguration.LineSecret, lineConfiguration.LineToken)
 	if err != nil {
 		return nil, err
 	}
 
+	oxfordClient := NewOxfordClient(oxfordConfiguration)
+
 	return &LineDictionaryApp{
 		bot: bot,
+		oxfordClient: oxfordClient,
 	}, nil
 }
 
@@ -50,7 +53,30 @@ func (app LineDictionaryApp) WebHook() http.HandlerFunc {
 }
 
 func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToken string) error {
-	fmt.Println(message.Text)
+	word := detectFirstWord(message.Text)
+	meaning, err := app.oxfordClient.Meaning(word)
+	if err != nil {
+		return err
+	}
+
+	if meaning == "" {
+		app.bot.ReplyMessage(replyToken, &linebot.TextMessage{Text: "no meaning"})
+		return nil
+	}
+
+	synonym, err := app.oxfordClient.Synonym(word)
+	if err != nil {
+		return err
+	}
+
+	if synonym == "" {
+		synonym = "no synonyms"
+	}
+
+	app.bot.ReplyMessage(replyToken,
+		&linebot.TextMessage{Text: meaning},
+		&linebot.TextMessage{Text: synonym}).Do()
+
 	return nil
 }
 
