@@ -49,3 +49,7 @@ func (app LineDictionaryApp) WebHook() http.HandlerFunc {
 func (app LineDictionaryApp) processText(message *linebot.TextMessage, replyToken string) error {
 	return nil
 }
+
+func detectFirstWord(message string) string {
+	return ""
+}
