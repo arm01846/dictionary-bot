@@ -1,0 +1,1866 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "line",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "he drew a line through the name"
+                    },
+                    {
+                      "text": "a pattern of wavy lines"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.001",
+                  "subsenses": [
+                    {
+                      "id": "id498a39e3-d8be-49a3-a8cd-1ccd55240845",
+                      "synonyms": [
+                        {
+                          "id": "underline",
+                          "language": "en",
+                          "text": "underline"
+                        },
+                        {
+                          "id": "underscore",
+                          "language": "en",
+                          "text": "underscore"
+                        },
+                        {
+                          "id": "stroke",
+                          "language": "en",
+                          "text": "stroke"
+                        },
+                        {
+                          "id": "slash",
+                          "language": "en",
+                          "text": "slash"
+                        },
+                        {
+                          "id": "virgule",
+                          "language": "en",
+                          "text": "virgule"
+                        },
+                        {
+                          "id": "solidus",
+                          "language": "en",
+                          "text": "solidus"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id4cef684b-4862-4593-b916-1052e83d914f",
+                      "synonyms": [
+                        {
+                          "id": "stripe",
+                          "language": "en",
+                          "text": "stripe"
+                        },
+                        {
+                          "id": "strip",
+                          "language": "en",
+                          "text": "strip"
+                        },
+                        {
+                          "id": "band",
+                          "language": "en",
+                          "text": "band"
+                        },
+                        {
+                          "id": "streak",
+                          "language": "en",
+                          "text": "streak"
+                        },
+                        {
+                          "id": "belt",
+                          "language": "en",
+                          "text": "belt"
+                        },
+                        {
+                          "id": "striation",
+                          "language": "en",
+                          "text": "striation"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id111109d6-8c7f-4c9d-8bd4-a7289b3b6fc8",
+                      "registers": [
+                        "technical"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "stria",
+                          "language": "en",
+                          "text": "stria"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id34ced156-f5cd-4805-84f7-04eece21808c",
+                      "regions": [
+                        "British"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "oblique",
+                          "language": "en",
+                          "text": "oblique"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "dash",
+                      "language": "en",
+                      "text": "dash"
+                    },
+                    {
+                      "id": "rule",
+                      "language": "en",
+                      "text": "rule"
+                    },
+                    {
+                      "id": "bar",
+                      "language": "en",
+                      "text": "bar"
+                    },
+                    {
+                      "id": "score",
+                      "language": "en",
+                      "text": "score"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "there were new lines round her eyes and mouth"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.002",
+                  "subsenses": [
+                    {
+                      "id": "id91c8dc1b-ba78-42e1-ba37-278e00d5f53f",
+                      "synonyms": [
+                        {
+                          "id": "scar",
+                          "language": "en",
+                          "text": "scar"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "wrinkle",
+                      "language": "en",
+                      "text": "wrinkle"
+                    },
+                    {
+                      "id": "furrow",
+                      "language": "en",
+                      "text": "furrow"
+                    },
+                    {
+                      "id": "crease",
+                      "language": "en",
+                      "text": "crease"
+                    },
+                    {
+                      "id": "crinkle",
+                      "language": "en",
+                      "text": "crinkle"
+                    },
+                    {
+                      "id": "crow%27s_foot",
+                      "language": "en",
+                      "text": "crow's foot"
+                    },
+                    {
+                      "id": "groove",
+                      "language": "en",
+                      "text": "groove"
+                    },
+                    {
+                      "id": "corrugation",
+                      "language": "en",
+                      "text": "corrugation"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "the classic lines of its exterior"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.003",
+                  "synonyms": [
+                    {
+                      "id": "contour",
+                      "language": "en",
+                      "text": "contour"
+                    },
+                    {
+                      "id": "outline",
+                      "language": "en",
+                      "text": "outline"
+                    },
+                    {
+                      "id": "configuration",
+                      "language": "en",
+                      "text": "configuration"
+                    },
+                    {
+                      "id": "shape",
+                      "language": "en",
+                      "text": "shape"
+                    },
+                    {
+                      "id": "figure",
+                      "language": "en",
+                      "text": "figure"
+                    },
+                    {
+                      "id": "delineation",
+                      "language": "en",
+                      "text": "delineation"
+                    },
+                    {
+                      "id": "silhouette",
+                      "language": "en",
+                      "text": "silhouette"
+                    },
+                    {
+                      "id": "profile",
+                      "language": "en",
+                      "text": "profile"
+                    },
+                    {
+                      "id": "features",
+                      "language": "en",
+                      "text": "features"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "he headed the ball over the line"
+                    },
+                    {
+                      "text": "the county line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.004",
+                  "synonyms": [
+                    {
+                      "id": "boundary",
+                      "language": "en",
+                      "text": "boundary"
+                    },
+                    {
+                      "id": "boundary_line",
+                      "language": "en",
+                      "text": "boundary line"
+                    },
+                    {
+                      "id": "limit",
+                      "language": "en",
+                      "text": "limit"
+                    },
+                    {
+                      "id": "border",
+                      "language": "en",
+                      "text": "border"
+                    },
+                    {
+                      "id": "borderline",
+                      "language": "en",
+                      "text": "borderline"
+                    },
+                    {
+                      "id": "bound",
+                      "language": "en",
+                      "text": "bound"
+                    },
+                    {
+                      "id": "bounding_line",
+                      "language": "en",
+                      "text": "bounding line"
+                    },
+                    {
+                      "id": "frontier",
+                      "language": "en",
+                      "text": "frontier"
+                    },
+                    {
+                      "id": "partition",
+                      "language": "en",
+                      "text": "partition"
+                    },
+                    {
+                      "id": "demarcation_line",
+                      "language": "en",
+                      "text": "demarcation line"
+                    },
+                    {
+                      "id": "dividing_line",
+                      "language": "en",
+                      "text": "dividing line"
+                    },
+                    {
+                      "id": "end_point",
+                      "language": "en",
+                      "text": "end point"
+                    },
+                    {
+                      "id": "cut-off_point",
+                      "language": "en",
+                      "text": "cut-off point"
+                    },
+                    {
+                      "id": "termination",
+                      "language": "en",
+                      "text": "termination"
+                    },
+                    {
+                      "id": "edge",
+                      "language": "en",
+                      "text": "edge"
+                    },
+                    {
+                      "id": "pale",
+                      "language": "en",
+                      "text": "pale"
+                    },
+                    {
+                      "id": "margin",
+                      "language": "en",
+                      "text": "margin"
+                    },
+                    {
+                      "id": "perimeter",
+                      "language": "en",
+                      "text": "perimeter"
+                    },
+                    {
+                      "id": "periphery",
+                      "language": "en",
+                      "text": "periphery"
+                    },
+                    {
+                      "id": "rim",
+                      "language": "en",
+                      "text": "rim"
+                    },
+                    {
+                      "id": "extremity",
+                      "language": "en",
+                      "text": "extremity"
+                    },
+                    {
+                      "id": "fringe",
+                      "language": "en",
+                      "text": "fringe"
+                    },
+                    {
+                      "id": "threshold",
+                      "language": "en",
+                      "text": "threshold"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "they were behind enemy lines"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.005",
+                  "subsenses": [
+                    {
+                      "id": "id033cf20d-6d83-4602-9fb3-32f1571d4f08",
+                      "synonyms": [
+                        {
+                          "id": "trenches",
+                          "language": "en",
+                          "text": "trenches"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "position",
+                      "language": "en",
+                      "text": "position"
+                    },
+                    {
+                      "id": "formation",
+                      "language": "en",
+                      "text": "formation"
+                    },
+                    {
+                      "id": "disposition",
+                      "language": "en",
+                      "text": "disposition"
+                    },
+                    {
+                      "id": "front",
+                      "language": "en",
+                      "text": "front"
+                    },
+                    {
+                      "id": "front_line",
+                      "language": "en",
+                      "text": "front line"
+                    },
+                    {
+                      "id": "firing_line",
+                      "language": "en",
+                      "text": "firing line"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a fishing line"
+                    },
+                    {
+                      "text": "he put the washing on the line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.006",
+                  "synonyms": [
+                    {
+                      "id": "cord",
+                      "language": "en",
+                      "text": "cord"
+                    },
+                    {
+                      "id": "rope",
+                      "language": "en",
+                      "text": "rope"
+                    },
+                    {
+                      "id": "string",
+                      "language": "en",
+                      "text": "string"
+                    },
+                    {
+                      "id": "cable",
+                      "language": "en",
+                      "text": "cable"
+                    },
+                    {
+                      "id": "wire",
+                      "language": "en",
+                      "text": "wire"
+                    },
+                    {
+                      "id": "thread",
+                      "language": "en",
+                      "text": "thread"
+                    },
+                    {
+                      "id": "twine",
+                      "language": "en",
+                      "text": "twine"
+                    },
+                    {
+                      "id": "strand",
+                      "language": "en",
+                      "text": "strand"
+                    },
+                    {
+                      "id": "filament",
+                      "language": "en",
+                      "text": "filament"
+                    },
+                    {
+                      "id": "ligature",
+                      "language": "en",
+                      "text": "ligature"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a line of soldiers"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.007",
+                  "subsenses": [
+                    {
+                      "id": "idcadd6955-b626-4ae0-851a-9b332a489faf",
+                      "synonyms": [
+                        {
+                          "id": "train",
+                          "language": "en",
+                          "text": "train"
+                        },
+                        {
+                          "id": "convoy",
+                          "language": "en",
+                          "text": "convoy"
+                        },
+                        {
+                          "id": "procession",
+                          "language": "en",
+                          "text": "procession"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ida1ef90e8-b5cf-4f04-bc4e-3863e849c53e",
+                      "synonyms": [
+                        {
+                          "id": "row",
+                          "language": "en",
+                          "text": "row"
+                        },
+                        {
+                          "id": "queue",
+                          "language": "en",
+                          "text": "queue"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id62382bde-24f9-4ea4-bb0a-cb5943a0582e",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "crocodile",
+                          "language": "en",
+                          "text": "crocodile"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "file",
+                      "language": "en",
+                      "text": "file"
+                    },
+                    {
+                      "id": "rank",
+                      "language": "en",
+                      "text": "rank"
+                    },
+                    {
+                      "id": "column",
+                      "language": "en",
+                      "text": "column"
+                    },
+                    {
+                      "id": "string",
+                      "language": "en",
+                      "text": "string"
+                    },
+                    {
+                      "id": "chain",
+                      "language": "en",
+                      "text": "chain"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a line of figures"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.008",
+                  "synonyms": [
+                    {
+                      "id": "column",
+                      "language": "en",
+                      "text": "column"
+                    },
+                    {
+                      "id": "row",
+                      "language": "en",
+                      "text": "row"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "it seemed to be the latest in a long line of crass decisions"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.009",
+                  "subsenses": [
+                    {
+                      "id": "id17047fb4-35ca-4c81-9fc9-c58abd02731e",
+                      "synonyms": [
+                        {
+                          "id": "progression",
+                          "language": "en",
+                          "text": "progression"
+                        },
+                        {
+                          "id": "course",
+                          "language": "en",
+                          "text": "course"
+                        },
+                        {
+                          "id": "set",
+                          "language": "en",
+                          "text": "set"
+                        },
+                        {
+                          "id": "cycle",
+                          "language": "en",
+                          "text": "cycle"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "series",
+                      "language": "en",
+                      "text": "series"
+                    },
+                    {
+                      "id": "sequence",
+                      "language": "en",
+                      "text": "sequence"
+                    },
+                    {
+                      "id": "succession",
+                      "language": "en",
+                      "text": "succession"
+                    },
+                    {
+                      "id": "chain",
+                      "language": "en",
+                      "text": "chain"
+                    },
+                    {
+                      "id": "string",
+                      "language": "en",
+                      "text": "string"
+                    },
+                    {
+                      "id": "train",
+                      "language": "en",
+                      "text": "train"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "it stopped right in the line of flight of some bees"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.010",
+                  "subsenses": [
+                    {
+                      "id": "idd99b7933-9cdb-46c8-b725-ceecfdff65d9",
+                      "synonyms": [
+                        {
+                          "id": "trajectory",
+                          "language": "en",
+                          "text": "trajectory"
+                        },
+                        {
+                          "id": "bearing",
+                          "language": "en",
+                          "text": "bearing"
+                        },
+                        {
+                          "id": "orientation",
+                          "language": "en",
+                          "text": "orientation"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "course",
+                      "language": "en",
+                      "text": "course"
+                    },
+                    {
+                      "id": "route",
+                      "language": "en",
+                      "text": "route"
+                    },
+                    {
+                      "id": "track",
+                      "language": "en",
+                      "text": "track"
+                    },
+                    {
+                      "id": "channel",
+                      "language": "en",
+                      "text": "channel"
+                    },
+                    {
+                      "id": "path",
+                      "language": "en",
+                      "text": "path"
+                    },
+                    {
+                      "id": "way",
+                      "language": "en",
+                      "text": "way"
+                    },
+                    {
+                      "id": "run",
+                      "language": "en",
+                      "text": "run"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "they took a very tough line with the industry right from the word go"
+                    },
+                    {
+                      "text": "ministers are obliged to follow the party line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.011",
+                  "subsenses": [
+                    {
+                      "id": "id37cdd666-ec04-4904-be64-402412955eea",
+                      "synonyms": [
+                        {
+                          "id": "policy",
+                          "language": "en",
+                          "text": "policy"
+                        },
+                        {
+                          "id": "practice",
+                          "language": "en",
+                          "text": "practice"
+                        },
+                        {
+                          "id": "scheme",
+                          "language": "en",
+                          "text": "scheme"
+                        },
+                        {
+                          "id": "approach",
+                          "language": "en",
+                          "text": "approach"
+                        },
+                        {
+                          "id": "plan",
+                          "language": "en",
+                          "text": "plan"
+                        },
+                        {
+                          "id": "programme",
+                          "language": "en",
+                          "text": "programme"
+                        },
+                        {
+                          "id": "position",
+                          "language": "en",
+                          "text": "position"
+                        },
+                        {
+                          "id": "stance",
+                          "language": "en",
+                          "text": "stance"
+                        },
+                        {
+                          "id": "philosophy",
+                          "language": "en",
+                          "text": "philosophy"
+                        },
+                        {
+                          "id": "argument",
+                          "language": "en",
+                          "text": "argument"
+                        },
+                        {
+                          "id": "avenue",
+                          "language": "en",
+                          "text": "avenue"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id8f2b03af-9ceb-4c7e-9d34-8a60fb8fa0f2",
+                      "synonyms": [
+                        {
+                          "id": "modus_operandi",
+                          "language": "en",
+                          "text": "modus operandi"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "course_of_action",
+                      "language": "en",
+                      "text": "course of action"
+                    },
+                    {
+                      "id": "course",
+                      "language": "en",
+                      "text": "course"
+                    },
+                    {
+                      "id": "procedure",
+                      "language": "en",
+                      "text": "procedure"
+                    },
+                    {
+                      "id": "mo",
+                      "language": "en",
+                      "text": "MO"
+                    },
+                    {
+                      "id": "technique",
+                      "language": "en",
+                      "text": "technique"
+                    },
+                    {
+                      "id": "way",
+                      "language": "en",
+                      "text": "way"
+                    },
+                    {
+                      "id": "tactic",
+                      "language": "en",
+                      "text": "tactic"
+                    },
+                    {
+                      "id": "tack",
+                      "language": "en",
+                      "text": "tack"
+                    },
+                    {
+                      "id": "system",
+                      "language": "en",
+                      "text": "system"
+                    },
+                    {
+                      "id": "method",
+                      "language": "en",
+                      "text": "method"
+                    },
+                    {
+                      "id": "process",
+                      "language": "en",
+                      "text": "process"
+                    },
+                    {
+                      "id": "manner",
+                      "language": "en",
+                      "text": "manner"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "she had not been listening, but pursuing her own line of thought"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.012",
+                  "synonyms": [
+                    {
+                      "id": "course",
+                      "language": "en",
+                      "text": "course"
+                    },
+                    {
+                      "id": "direction",
+                      "language": "en",
+                      "text": "direction"
+                    },
+                    {
+                      "id": "drift",
+                      "language": "en",
+                      "text": "drift"
+                    },
+                    {
+                      "id": "tack",
+                      "language": "en",
+                      "text": "tack"
+                    },
+                    {
+                      "id": "tendency",
+                      "language": "en",
+                      "text": "tendency"
+                    },
+                    {
+                      "id": "trend",
+                      "language": "en",
+                      "text": "trend"
+                    },
+                    {
+                      "id": "bias",
+                      "language": "en",
+                      "text": "bias"
+                    },
+                    {
+                      "id": "tenor",
+                      "language": "en",
+                      "text": "tenor"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "oh, come on, don't give me that line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.013",
+                  "subsenses": [
+                    {
+                      "id": "id6b216372-b6ed-4788-badc-e5a7df77e1d8",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "spiel",
+                          "language": "en",
+                          "text": "spiel"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "patter",
+                      "language": "en",
+                      "text": "patter"
+                    },
+                    {
+                      "id": "story",
+                      "language": "en",
+                      "text": "story"
+                    },
+                    {
+                      "id": "pitch",
+                      "language": "en",
+                      "text": "pitch"
+                    },
+                    {
+                      "id": "piece_of_fiction",
+                      "language": "en",
+                      "text": "piece of fiction"
+                    },
+                    {
+                      "id": "fabrication",
+                      "language": "en",
+                      "text": "fabrication"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "he couldn't seem to remember his lines"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.014",
+                  "synonyms": [
+                    {
+                      "id": "words",
+                      "language": "en",
+                      "text": "words"
+                    },
+                    {
+                      "id": "role",
+                      "language": "en",
+                      "text": "role"
+                    },
+                    {
+                      "id": "part",
+                      "language": "en",
+                      "text": "part"
+                    },
+                    {
+                      "id": "script",
+                      "language": "en",
+                      "text": "script"
+                    },
+                    {
+                      "id": "speech",
+                      "language": "en",
+                      "text": "speech"
+                    },
+                    {
+                      "id": "dialogue",
+                      "language": "en",
+                      "text": "dialogue"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "there are no jobs nowadays in my line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.015",
+                  "subsenses": [
+                    {
+                      "id": "ide0a764e0-9d71-4c6e-891c-e3a70af65863",
+                      "synonyms": [
+                        {
+                          "id": "specialty",
+                          "language": "en",
+                          "text": "specialty"
+                        },
+                        {
+                          "id": "forte",
+                          "language": "en",
+                          "text": "forte"
+                        },
+                        {
+                          "id": "province",
+                          "language": "en",
+                          "text": "province"
+                        },
+                        {
+                          "id": "department",
+                          "language": "en",
+                          "text": "department"
+                        },
+                        {
+                          "id": "sphere",
+                          "language": "en",
+                          "text": "sphere"
+                        },
+                        {
+                          "id": "area",
+                          "language": "en",
+                          "text": "area"
+                        },
+                        {
+                          "id": "area_of_expertise",
+                          "language": "en",
+                          "text": "area of expertise"
+                        },
+                        {
+                          "id": "domain",
+                          "language": "en",
+                          "text": "domain"
+                        },
+                        {
+                          "id": "realm",
+                          "language": "en",
+                          "text": "realm"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idcbf333b4-c0c4-4be7-8cdd-93d5c71b9845",
+                      "synonyms": [
+                        {
+                          "id": "m%C3%A9tier",
+                          "language": "en",
+                          "text": "métier"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id4e4bd301-4c63-4398-9d6d-3453bd47c793",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "line_of_country",
+                          "language": "en",
+                          "text": "line of country"
+                        },
+                        {
+                          "id": "game",
+                          "language": "en",
+                          "text": "game"
+                        },
+                        {
+                          "id": "thing",
+                          "language": "en",
+                          "text": "thing"
+                        },
+                        {
+                          "id": "bag",
+                          "language": "en",
+                          "text": "bag"
+                        },
+                        {
+                          "id": "pigeon",
+                          "language": "en",
+                          "text": "pigeon"
+                        },
+                        {
+                          "id": "racket",
+                          "language": "en",
+                          "text": "racket"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "line_of_work",
+                      "language": "en",
+                      "text": "line of work"
+                    },
+                    {
+                      "id": "line_of_business",
+                      "language": "en",
+                      "text": "line of business"
+                    },
+                    {
+                      "id": "business",
+                      "language": "en",
+                      "text": "business"
+                    },
+                    {
+                      "id": "field",
+                      "language": "en",
+                      "text": "field"
+                    },
+                    {
+                      "id": "trade",
+                      "language": "en",
+                      "text": "trade"
+                    },
+                    {
+                      "id": "occupation",
+                      "language": "en",
+                      "text": "occupation"
+                    },
+                    {
+                      "id": "employment",
+                      "language": "en",
+                      "text": "employment"
+                    },
+                    {
+                      "id": "profession",
+                      "language": "en",
+                      "text": "profession"
+                    },
+                    {
+                      "id": "work",
+                      "language": "en",
+                      "text": "work"
+                    },
+                    {
+                      "id": "job",
+                      "language": "en",
+                      "text": "job"
+                    },
+                    {
+                      "id": "day_job",
+                      "language": "en",
+                      "text": "day job"
+                    },
+                    {
+                      "id": "calling",
+                      "language": "en",
+                      "text": "calling"
+                    },
+                    {
+                      "id": "vocation",
+                      "language": "en",
+                      "text": "vocation"
+                    },
+                    {
+                      "id": "career",
+                      "language": "en",
+                      "text": "career"
+                    },
+                    {
+                      "id": "pursuit",
+                      "language": "en",
+                      "text": "pursuit"
+                    },
+                    {
+                      "id": "activity",
+                      "language": "en",
+                      "text": "activity"
+                    },
+                    {
+                      "id": "walk_of_life",
+                      "language": "en",
+                      "text": "walk of life"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "he's introduced his own line of cologne"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.016",
+                  "synonyms": [
+                    {
+                      "id": "brand",
+                      "language": "en",
+                      "text": "brand"
+                    },
+                    {
+                      "id": "kind",
+                      "language": "en",
+                      "text": "kind"
+                    },
+                    {
+                      "id": "sort",
+                      "language": "en",
+                      "text": "sort"
+                    },
+                    {
+                      "id": "type",
+                      "language": "en",
+                      "text": "type"
+                    },
+                    {
+                      "id": "variety",
+                      "language": "en",
+                      "text": "variety"
+                    },
+                    {
+                      "id": "make",
+                      "language": "en",
+                      "text": "make"
+                    },
+                    {
+                      "id": "label",
+                      "language": "en",
+                      "text": "label"
+                    },
+                    {
+                      "id": "trade_name",
+                      "language": "en",
+                      "text": "trade name"
+                    },
+                    {
+                      "id": "trademark",
+                      "language": "en",
+                      "text": "trademark"
+                    },
+                    {
+                      "id": "registered_trademark",
+                      "language": "en",
+                      "text": "registered trademark"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a man from a noble line claiming royal descent"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.017",
+                  "subsenses": [
+                    {
+                      "id": "id9d7a0596-75df-480f-adc2-b63aa3710344",
+                      "synonyms": [
+                        {
+                          "id": "stock",
+                          "language": "en",
+                          "text": "stock"
+                        },
+                        {
+                          "id": "strain",
+                          "language": "en",
+                          "text": "strain"
+                        },
+                        {
+                          "id": "race",
+                          "language": "en",
+                          "text": "race"
+                        },
+                        {
+                          "id": "bloodline",
+                          "language": "en",
+                          "text": "bloodline"
+                        },
+                        {
+                          "id": "blood",
+                          "language": "en",
+                          "text": "blood"
+                        },
+                        {
+                          "id": "breeding",
+                          "language": "en",
+                          "text": "breeding"
+                        },
+                        {
+                          "id": "pedigree",
+                          "language": "en",
+                          "text": "pedigree"
+                        },
+                        {
+                          "id": "succession",
+                          "language": "en",
+                          "text": "succession"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "ancestry",
+                      "language": "en",
+                      "text": "ancestry"
+                    },
+                    {
+                      "id": "family",
+                      "language": "en",
+                      "text": "family"
+                    },
+                    {
+                      "id": "parentage",
+                      "language": "en",
+                      "text": "parentage"
+                    },
+                    {
+                      "id": "birth",
+                      "language": "en",
+                      "text": "birth"
+                    },
+                    {
+                      "id": "descent",
+                      "language": "en",
+                      "text": "descent"
+                    },
+                    {
+                      "id": "lineage",
+                      "language": "en",
+                      "text": "lineage"
+                    },
+                    {
+                      "id": "extraction",
+                      "language": "en",
+                      "text": "extraction"
+                    },
+                    {
+                      "id": "derivation",
+                      "language": "en",
+                      "text": "derivation"
+                    },
+                    {
+                      "id": "heritage",
+                      "language": "en",
+                      "text": "heritage"
+                    },
+                    {
+                      "id": "genealogy",
+                      "language": "en",
+                      "text": "genealogy"
+                    },
+                    {
+                      "id": "roots",
+                      "language": "en",
+                      "text": "roots"
+                    },
+                    {
+                      "id": "house",
+                      "language": "en",
+                      "text": "house"
+                    },
+                    {
+                      "id": "dynasty",
+                      "language": "en",
+                      "text": "dynasty"
+                    },
+                    {
+                      "id": "origin",
+                      "language": "en",
+                      "text": "origin"
+                    },
+                    {
+                      "id": "background",
+                      "language": "en",
+                      "text": "background"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "the opening line of Wilfred Owen's ‘Anthem for Doomed Youth’"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.018",
+                  "subsenses": [
+                    {
+                      "id": "id3ac8710f-8bce-474c-93b2-1fcc335ad63a",
+                      "synonyms": [
+                        {
+                          "id": "passage",
+                          "language": "en",
+                          "text": "passage"
+                        },
+                        {
+                          "id": "extract",
+                          "language": "en",
+                          "text": "extract"
+                        },
+                        {
+                          "id": "quotation",
+                          "language": "en",
+                          "text": "quotation"
+                        },
+                        {
+                          "id": "quote",
+                          "language": "en",
+                          "text": "quote"
+                        },
+                        {
+                          "id": "citation",
+                          "language": "en",
+                          "text": "citation"
+                        },
+                        {
+                          "id": "section",
+                          "language": "en",
+                          "text": "section"
+                        },
+                        {
+                          "id": "piece",
+                          "language": "en",
+                          "text": "piece"
+                        },
+                        {
+                          "id": "part",
+                          "language": "en",
+                          "text": "part"
+                        },
+                        {
+                          "id": "snippet",
+                          "language": "en",
+                          "text": "snippet"
+                        },
+                        {
+                          "id": "sound_bite",
+                          "language": "en",
+                          "text": "sound bite"
+                        },
+                        {
+                          "id": "fragment",
+                          "language": "en",
+                          "text": "fragment"
+                        },
+                        {
+                          "id": "portion",
+                          "language": "en",
+                          "text": "portion"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "sentence",
+                      "language": "en",
+                      "text": "sentence"
+                    },
+                    {
+                      "id": "phrase",
+                      "language": "en",
+                      "text": "phrase"
+                    },
+                    {
+                      "id": "group_of_words",
+                      "language": "en",
+                      "text": "group of words"
+                    },
+                    {
+                      "id": "prosodic_unit",
+                      "language": "en",
+                      "text": "prosodic unit"
+                    },
+                    {
+                      "id": "construction",
+                      "language": "en",
+                      "text": "construction"
+                    },
+                    {
+                      "id": "clause",
+                      "language": "en",
+                      "text": "clause"
+                    },
+                    {
+                      "id": "utterance",
+                      "language": "en",
+                      "text": "utterance"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "perhaps I should drop Ralph a line"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.019",
+                  "subsenses": [
+                    {
+                      "id": "idcbbcb2b7-cd09-4f98-8caa-2d5d2edcc368",
+                      "synonyms": [
+                        {
+                          "id": "correspondence",
+                          "language": "en",
+                          "text": "correspondence"
+                        },
+                        {
+                          "id": "word",
+                          "language": "en",
+                          "text": "word"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id4018bd48-0c3f-41c9-88eb-bad03c1d9205",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "memo",
+                          "language": "en",
+                          "text": "memo"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "note",
+                      "language": "en",
+                      "text": "note"
+                    },
+                    {
+                      "id": "letter",
+                      "language": "en",
+                      "text": "letter"
+                    },
+                    {
+                      "id": "card",
+                      "language": "en",
+                      "text": "card"
+                    },
+                    {
+                      "id": "postcard",
+                      "language": "en",
+                      "text": "postcard"
+                    },
+                    {
+                      "id": "message",
+                      "language": "en",
+                      "text": "message"
+                    },
+                    {
+                      "id": "bulletin",
+                      "language": "en",
+                      "text": "bulletin"
+                    },
+                    {
+                      "id": "communication",
+                      "language": "en",
+                      "text": "communication"
+                    },
+                    {
+                      "id": "epistle",
+                      "language": "en",
+                      "text": "epistle"
+                    },
+                    {
+                      "id": "missive",
+                      "language": "en",
+                      "text": "missive"
+                    },
+                    {
+                      "id": "memorandum",
+                      "language": "en",
+                      "text": "memorandum"
+                    },
+                    {
+                      "id": "dispatch",
+                      "language": "en",
+                      "text": "dispatch"
+                    },
+                    {
+                      "id": "report",
+                      "language": "en",
+                      "text": "report"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "text": "line"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "101",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "her face was lined with age"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.029",
+                  "synonyms": [
+                    {
+                      "id": "furrow",
+                      "language": "en",
+                      "text": "furrow"
+                    },
+                    {
+                      "id": "wrinkle",
+                      "language": "en",
+                      "text": "wrinkle"
+                    },
+                    {
+                      "id": "crease",
+                      "language": "en",
+                      "text": "crease"
+                    },
+                    {
+                      "id": "mark_with_lines",
+                      "language": "en",
+                      "text": "mark with lines"
+                    },
+                    {
+                      "id": "cover_with_lines",
+                      "language": "en",
+                      "text": "cover with lines"
+                    },
+                    {
+                      "id": "crinkle",
+                      "language": "en",
+                      "text": "crinkle"
+                    },
+                    {
+                      "id": "pucker",
+                      "language": "en",
+                      "text": "pucker"
+                    },
+                    {
+                      "id": "corrugate",
+                      "language": "en",
+                      "text": "corrugate"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "the driveway was lined by poplars"
+                    }
+                  ],
+                  "id": "t_en_gb0008794.030",
+                  "synonyms": [
+                    {
+                      "id": "border",
+                      "language": "en",
+                      "text": "border"
+                    },
+                    {
+                      "id": "edge",
+                      "language": "en",
+                      "text": "edge"
+                    },
+                    {
+                      "id": "fringe",
+                      "language": "en",
+                      "text": "fringe"
+                    },
+                    {
+                      "id": "bound",
+                      "language": "en",
+                      "text": "bound"
+                    },
+                    {
+                      "id": "skirt",
+                      "language": "en",
+                      "text": "skirt"
+                    },
+                    {
+                      "id": "hem",
+                      "language": "en",
+                      "text": "hem"
+                    },
+                    {
+                      "id": "rim",
+                      "language": "en",
+                      "text": "rim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "homographNumber": "300",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "a cardboard box lined with a blanket"
+                    }
+                  ],
+                  "id": "t_en_gb0008795.001",
+                  "subsenses": [
+                    {
+                      "id": "ida631ef97-5225-4956-b29f-798687e32f78",
+                      "synonyms": [
+                        {
+                          "id": "paper",
+                          "language": "en",
+                          "text": "paper"
+                        },
+                        {
+                          "id": "decorate",
+                          "language": "en",
+                          "text": "decorate"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id38ed37a6-8565-41ce-b340-24943ff00383",
+                      "synonyms": [
+                        {
+                          "id": "stuff",
+                          "language": "en",
+                          "text": "stuff"
+                        },
+                        {
+                          "id": "fill",
+                          "language": "en",
+                          "text": "fill"
+                        },
+                        {
+                          "id": "pack",
+                          "language": "en",
+                          "text": "pack"
+                        },
+                        {
+                          "id": "pad",
+                          "language": "en",
+                          "text": "pad"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idf79924f4-41a1-4de2-9271-9a0bd3e49758",
+                      "registers": [
+                        "archaic"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "ceil",
+                          "language": "en",
+                          "text": "ceil"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "cover",
+                      "language": "en",
+                      "text": "cover"
+                    },
+                    {
+                      "id": "put_a_lining_in",
+                      "language": "en",
+                      "text": "put a lining in"
+                    },
+                    {
+                      "id": "back",
+                      "language": "en",
+                      "text": "back"
+                    },
+                    {
+                      "id": "put_a_backing_on",
+                      "language": "en",
+                      "text": "put a backing on"
+                    },
+                    {
+                      "id": "interline",
+                      "language": "en",
+                      "text": "interline"
+                    },
+                    {
+                      "id": "face",
+                      "language": "en",
+                      "text": "face"
+                    },
+                    {
+                      "id": "panel",
+                      "language": "en",
+                      "text": "panel"
+                    },
+                    {
+                      "id": "inlay",
+                      "language": "en",
+                      "text": "inlay"
+                    },
+                    {
+                      "id": "reinforce",
+                      "language": "en",
+                      "text": "reinforce"
+                    },
+                    {
+                      "id": "encase",
+                      "language": "en",
+                      "text": "encase"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "text": "line"
+        }
+      ],
+      "type": "headword",
+      "word": "line"
+    }
+  ]
+}

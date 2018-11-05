@@ -1,0 +1,975 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "line",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English līne ‘rope, series’, probably of Germanic origin, from Latin linea (fibra) ‘flax (fibre)’, from Latin linum ‘flax’, reinforced in Middle English by Old French ligne, based on Latin linea"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "a long, narrow mark or band"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I can't draw a straight line"
+                    },
+                    {
+                      "text": "a row of closely spaced dots will look like a continuous line"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.008",
+                  "short_definitions": [
+                    "long mark or band"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a straight or curved continuous extent of length without breadth."
+                      ],
+                      "domains": [
+                        "Mathematics"
+                      ],
+                      "id": "m_en_gbus0583770.011",
+                      "short_definitions": [
+                        "continuous extent of length without breadth"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a direct course"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the ball rose in a straight line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.012",
+                      "short_definitions": [
+                        "direct course"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.010"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a furrow or wrinkle in the skin, especially on the face"
+                      ],
+                      "examples": [
+                        {
+                          "text": "there were new lines round her eyes and mouth"
+                        },
+                        {
+                          "text": "laughter lines"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.013",
+                      "short_definitions": [
+                        "wrinkle"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.002"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a contour or outline considered as a feature of design or composition"
+                      ],
+                      "examples": [
+                        {
+                          "text": "crisp architectural lines"
+                        },
+                        {
+                          "text": "the artist's use of clean line and colour"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.014",
+                      "short_definitions": [
+                        "contour or outline"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.003"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(on a map or graph) a curve connecting all points having a specified common property."
+                      ],
+                      "domains": [
+                        "Geography",
+                        "Mathematics"
+                      ],
+                      "id": "m_en_gbus0583770.015",
+                      "short_definitions": [
+                        "curve connecting points on map or graph"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a line marking the starting or finishing point in a race"
+                      ],
+                      "domains": [
+                        "Sport"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a good position at the start line will put you in the front rank on the first leg"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.016",
+                      "short_definitions": [
+                        "starting or finishing point in race"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(in football, hockey, etc.) the goal line"
+                      ],
+                      "domains": [
+                        "Sport"
+                      ],
+                      "examples": [
+                        {
+                          "text": "video evidence suggests the ball did not cross the line"
+                        },
+                        {
+                          "text": "Dunne was on hand to bundle the ball over the line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.017",
+                      "short_definitions": [
+                        "(in football, hockey, etc.) goal line"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the equator."
+                      ],
+                      "domains": [
+                        "Geography"
+                      ],
+                      "id": "m_en_gbus0583770.019",
+                      "notes": [
+                        {
+                          "text": "\"the Line\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "equator"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a notional limit or boundary"
+                      ],
+                      "examples": [
+                        {
+                          "text": "television blurs the line between news and entertainment"
+                        },
+                        {
+                          "text": "the issue of peace cut across class lines"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.022",
+                      "short_definitions": [
+                        "notional limit or boundary"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.004"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "each of the very narrow horizontal sections forming a television picture."
+                      ],
+                      "domains": [
+                        "Broadcasting"
+                      ],
+                      "id": "m_en_gbus0583770.023",
+                      "short_definitions": [
+                        "each of narrow horizontal sections forming television picture"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a narrow range of the spectrum that is noticeably brighter or darker than the adjacent parts."
+                      ],
+                      "domains": [
+                        "Physics"
+                      ],
+                      "id": "m_en_gbus0583770.024",
+                      "short_definitions": [
+                        "narrow range of spectrum"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the level of the base of most letters, such as h and x, in printing and writing."
+                      ],
+                      "domains": [
+                        "Printing"
+                      ],
+                      "id": "m_en_gbus0583770.025",
+                      "notes": [
+                        {
+                          "text": "\"the line\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "level of base of letters"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "denoting an image consisting of lines and solid areas, with no gradation of tone"
+                      ],
+                      "domains": [
+                        "Computing",
+                        "Printing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a line block"
+                        },
+                        {
+                          "text": "line art"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.027",
+                      "notes": [
+                        {
+                          "text": "as modifier",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "referring to image consisting only of lines and solid areas"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "each of (usually five) horizontal lines forming a stave in musical notation."
+                      ],
+                      "domains": [
+                        "Music"
+                      ],
+                      "id": "m_en_gbus0583770.029",
+                      "short_definitions": [
+                        "each of horizontal lines forming musical stave"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a sequence of notes or tones forming an instrumental or vocal melody"
+                      ],
+                      "domains": [
+                        "Music"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a powerful melodic line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.030",
+                      "short_definitions": [
+                        "sequence of notes"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a dose of a powdered narcotic drug, especially cocaine, laid out in a line ready to be taken."
+                      ],
+                      "domains": [
+                        "Narcotics"
+                      ],
+                      "id": "m_en_gbus0583770.031",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "dose of cocaine"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a length of cord, rope, wire, or other material serving a particular purpose"
+                  ],
+                  "domains": [
+                    "Electrical"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Lily pegged the washing on the line"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.033",
+                  "short_definitions": [
+                    "length of cord, rope, etc."
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a length of sterile tubing inserted into a vein or artery in order to provide temporary access, typically so as to administer fluids or withdraw blood"
+                      ],
+                      "domains": [
+                        "Medicine"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he's having an op this morning to put a line in his chest for IV drugs"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.209",
+                      "short_definitions": [
+                        "length of sterile tubing inserted into vein or artery"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a telephone connection or service"
+                      ],
+                      "domains": [
+                        "Telecommunications"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I've got Inspector Jackson on the line for you"
+                        },
+                        {
+                          "text": "a freephone advice line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.035",
+                      "short_definitions": [
+                        "telephone connection"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a railway track"
+                      ],
+                      "domains": [
+                        "Railways"
+                      ],
+                      "examples": [
+                        {
+                          "text": "passengers were hit by delays caused by leaves on the line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.036",
+                      "short_definitions": [
+                        "railway track"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a branch or route of a railway system"
+                      ],
+                      "domains": [
+                        "Railways"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the Glasgow to London line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.037",
+                      "short_definitions": [
+                        "route of railway system"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a company that provides ships, aircraft, or buses on particular routes on a regular basis"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a major shipping line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.038",
+                      "short_definitions": [
+                        "transport company"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.006"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a horizontal row of written or printed words"
+                  ],
+                  "examples": [
+                    {
+                      "text": "take the cursor up one line and press the delete key"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.040",
+                  "short_definitions": [
+                    "horizontal row of words"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a part of a poem or song forming one row of written or printed words"
+                      ],
+                      "domains": [
+                        "Prosody"
+                      ],
+                      "examples": [
+                        {
+                          "text": "each stanza has eight lines"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.041",
+                      "short_definitions": [
+                        "part of poem forming row"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.018"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "the words of an actor's part in a play or film"
+                      ],
+                      "domains": [
+                        "Theatre"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he couldn't seem to remember his lines and had to read his dialogue off boards"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.042",
+                      "notes": [
+                        {
+                          "text": "\"lines\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "actor's words"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.014"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "an amount of text or number of repetitions of a sentence written out as a school punishment"
+                      ],
+                      "examples": [
+                        {
+                          "text": "five hundred lines to anyone caught sneaking in before the bell!"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.045",
+                      "notes": [
+                        {
+                          "text": "\"lines\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "regions": [
+                        "British"
+                      ],
+                      "short_definitions": [
+                        "amount of text copied out as school punishment"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a row of people or things"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a line of altar boys proceeded down the aisle"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.047",
+                  "short_definitions": [
+                    "row of people or things"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a queue."
+                      ],
+                      "id": "m_en_gbus0583770.048",
+                      "regions": [
+                        "North American"
+                      ],
+                      "short_definitions": [
+                        "queue"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a connected series of people following one another in time (used especially of several generations of a family)"
+                      ],
+                      "examples": [
+                        {
+                          "text": "we follow the history of a family through the male line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.049",
+                      "short_definitions": [
+                        "connected series of people or generations"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.017"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a series of related things"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the bill is the latest in a long line of measures to protect society from criminals"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.052",
+                      "short_definitions": [
+                        "series of related things"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.009"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a range of commercial goods"
+                      ],
+                      "domains": [
+                        "Commerce"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the company intends to hire more people and expand its product line"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.053",
+                      "short_definitions": [
+                        "range of commercial goods"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.016"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "an area or branch of activity"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the stresses unique to their line of work"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.056",
+                  "short_definitions": [
+                    "sphere of activity"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a direction, course, or channel"
+                      ],
+                      "examples": [
+                        {
+                          "text": "he opened another line of attack"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.057",
+                      "short_definitions": [
+                        "direction, course, or channel"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.011"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a manner of doing or thinking about something"
+                      ],
+                      "examples": [
+                        {
+                          "text": "you can't run a business on these lines"
+                        },
+                        {
+                          "text": "the superintendent was thinking along the same lines"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.058",
+                      "notes": [
+                        {
+                          "text": "\"lines\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "manner of doing something"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.011"
+                        },
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.012"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "an agreed approach; a policy"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the official line is that there were no chemical attacks on allied troops"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.059",
+                      "short_definitions": [
+                        "policy"
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "a false or exaggerated remark or story"
+                      ],
+                      "examples": [
+                        {
+                          "text": "none of my chat-up lines ever worked"
+                        },
+                        {
+                          "text": "he fed me a line about some nightclubbing Japanese photographer"
+                        }
+                      ],
+                      "id": "m_en_gbus0583770.060",
+                      "registers": [
+                        "informal"
+                      ],
+                      "short_definitions": [
+                        "false or exaggerated story"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.013"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.015"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "a connected series of military fieldworks or defences facing an enemy force"
+                  ],
+                  "domains": [
+                    "Military"
+                  ],
+                  "examples": [
+                    {
+                      "text": "raids behind enemy lines"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.062",
+                  "short_definitions": [
+                    "connected series of military fieldworks"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "an arrangement of soldiers or ships in a column or line formation; a line of battle."
+                      ],
+                      "domains": [
+                        "Military",
+                        "Naval"
+                      ],
+                      "id": "m_en_gbus0583770.063",
+                      "short_definitions": [
+                        "arrangement of soldiers or ships in column"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008794.007"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "regular army regiments (as opposed to auxiliary forces or household troops)."
+                      ],
+                      "domains": [
+                        "Military"
+                      ],
+                      "id": "m_en_gbus0583770.064",
+                      "notes": [
+                        {
+                          "text": "\"the line\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "regular army regiments"
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/line_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "lʌɪn"
+            }
+          ],
+          "text": "line"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "101",
+              "senses": [
+                {
+                  "definitions": [
+                    "stand or be positioned at intervals along"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a processional route lined by people waving flags"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.067",
+                  "short_definitions": [
+                    "stand at intervals along"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.030"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "mark or cover with lines"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a thin woman with a lined face"
+                    },
+                    {
+                      "text": "lined paper"
+                    }
+                  ],
+                  "id": "m_en_gbus0583770.074",
+                  "notes": [
+                    {
+                      "text": "usually as adjective \"lined\"",
+                      "type": "wordFormNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "mark with lines"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "lined",
+                      "sense_id": "t_en_gb0008798.001"
+                    },
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008794.029"
+                    },
+                    {
+                      "entry_id": "lined",
+                      "sense_id": "t_en_gb0008798.002"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "etymologies": [
+                "late Middle English: from obsolete line ‘flax’, with reference to the common use of linen for linings"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "cover the inside surface of (a container or garment) with a layer of different material"
+                  ],
+                  "examples": [
+                    {
+                      "text": "a basket lined with polythene"
+                    }
+                  ],
+                  "id": "m_en_gbus0583780.005",
+                  "short_definitions": [
+                    "cover inside surface of container or garment with layer of different material"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "form a layer on the inside surface of (an area); cover as if with a lining"
+                      ],
+                      "examples": [
+                        {
+                          "text": "hundreds of telegrams lined the walls"
+                        }
+                      ],
+                      "id": "m_en_gbus0583780.011",
+                      "short_definitions": [
+                        "form layer on inside surface of"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "line",
+                          "sense_id": "t_en_gb0008795.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "lined",
+                      "sense_id": "t_en_gb0008799.001"
+                    },
+                    {
+                      "entry_id": "line",
+                      "sense_id": "t_en_gb0008795.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/line_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "lʌɪn"
+            }
+          ],
+          "text": "line"
+        }
+      ],
+      "type": "headword",
+      "word": "line"
+    }
+  ]
+}
