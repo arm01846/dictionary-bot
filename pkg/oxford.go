@@ -26,7 +26,15 @@ func NewOxfordClient(config OxfordConfiguration) *OxfordClient {
 }
 
 func (oxford OxfordClient) Meaning(word string) (string, error) {
-	resp, err := http.Get(OxfordBaseUrl + "/entries/en/" + word)
+	req, err := http.NewRequest("GET", OxfordBaseUrl + "/entries/en/" + word, nil)
+	if err != nil {
+		return "", err
+	}
+
+	req.Header.Add("app_id", oxford.config.AppID)
+	req.Header.Add("app_key", oxford.config.AppKey)
+
+	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
 		return "", err
 	}
@@ -50,7 +58,15 @@ func (oxford OxfordClient) extractMeaning(json []byte) string {
 }
 
 func (oxford OxfordClient) Synonym(word string) (string, error) {
-	resp, err := http.Get(OxfordBaseUrl + "/entries/en/" + word + "/synonym")
+	req, err := http.NewRequest("GET", OxfordBaseUrl + "/entries/en/" + word + "/synonyms", nil)
+	if err != nil {
+		return "", err
+	}
+
+	req.Header.Add("app_id", oxford.config.AppID)
+	req.Header.Add("app_key", oxford.config.AppKey)
+
+	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
 		return "", err
 	}
