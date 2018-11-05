@@ -1,8 +1,11 @@
 package bot
 
 import (
+	"fmt"
+	"github.com/savaki/jq"
 	"io/ioutil"
 	"net/http"
+	"strings"
 )
 
 const OxfordBaseUrl = "https://od-api.oxforddictionaries.com/api/v1"
@@ -40,7 +43,10 @@ func (oxford OxfordClient) Meaning(word string) (string, error) {
 }
 
 func (oxford OxfordClient) extractMeaning(json []byte) string {
-	return ""
+	op, _ := jq.Parse(".results.[0].lexicalEntries.[0].entries.[0].senses.[0].definitions.[0]")
+	result, _ := op.Apply(json)
+	meaning := strings.Replace(string(result), "\"", "", -1)
+	return meaning
 }
 
 func (oxford OxfordClient) Synonym(word string) ([]string, error) {
@@ -61,5 +67,18 @@ func (oxford OxfordClient) Synonym(word string) ([]string, error) {
 }
 
 func (oxford OxfordClient) extractSynonym(json []byte) []string {
-	return nil
+	op, _ := jq.Parse(".results.[0].lexicalEntries.[0].entries.[0].senses.[0].subsenses.[0].synonyms")
+	tmp, _ := op.Apply(json)
+
+	var result []string
+	for i := 0; i < 5; i++ {
+		op, _ = jq.Parse(fmt.Sprintf(".[%d].text", i))
+		word, err := op.Apply(tmp)
+		if err != nil {
+			break
+		}
+		synonym := strings.Replace(string(word), "\"", "", -1)
+		result = append(result, string(synonym))
+	}
+	return result
 }
