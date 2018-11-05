@@ -77,8 +77,14 @@ func (oxford OxfordClient) extractSynonym(json []byte) []string {
 		if err != nil {
 			break
 		}
+
 		synonym := strings.Replace(string(word), "\"", "", -1)
 		result = append(result, string(synonym))
 	}
+
+	if len(result) == 0 {
+		return nil
+	}
+
 	return result
 }

@@ -33,4 +33,9 @@ func Test_OxfordClient_extractSynonym(t *testing.T) {
 		}, oxfordClient.extractSynonym(input))
 	})
 
+	t.Run("pen", func(t *testing.T) {
+		file, _ := os.Open("sample/pen_synonym.json")
+		input, _ := ioutil.ReadAll(file)
+		assert.Nil(t, oxfordClient.extractSynonym(input))
+	})
 }
