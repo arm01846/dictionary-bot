@@ -19,9 +19,9 @@ type OxfordClient struct {
 	config *OxfordConfiguration
 }
 
-func NewOxfordClient(config *OxfordConfiguration) *OxfordClient {
+func NewOxfordClient(config OxfordConfiguration) *OxfordClient {
 	return &OxfordClient{
-		config: config,
+		config: &config,
 	}
 }
 
@@ -49,21 +49,21 @@ func (oxford OxfordClient) extractMeaning(json []byte) string {
 	return meaning
 }
 
-func (oxford OxfordClient) Synonym(word string) ([]string, error) {
+func (oxford OxfordClient) Synonym(word string) (string, error) {
 	resp, err := http.Get(OxfordBaseUrl + "/entries/en/" + word + "/synonym")
 	if err != nil {
-		return nil, err
+		return "", err
 	}
 
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		return nil, err
+		return "", err
 	}
 
-	synonym := oxford.extractSynonym(body)
+	synonyms := oxford.extractSynonym(body)
 
-	return synonym, nil
+	return concatSynonyms(synonyms), nil
 }
 
 func (oxford OxfordClient) extractSynonym(json []byte) []string {
@@ -87,4 +87,8 @@ func (oxford OxfordClient) extractSynonym(json []byte) []string {
 	}
 
 	return result
+}
+
+func concatSynonyms(synonyms []string) string {
+	return ""
 }

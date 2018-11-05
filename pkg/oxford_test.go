@@ -9,7 +9,7 @@ import (
 
 
 func Test_OxfordClient_extractMeaning(t *testing.T) {
-	oxfordClient := NewOxfordClient(nil)
+	oxfordClient := NewOxfordClient(OxfordConfiguration{})
 
 	t.Run("line", func(t *testing.T) {
 		file, _ := os.Open("sample/line_meaning.json")
@@ -19,7 +19,7 @@ func Test_OxfordClient_extractMeaning(t *testing.T) {
 }
 
 func Test_OxfordClient_extractSynonym(t *testing.T) {
-	oxfordClient := NewOxfordClient(nil)
+	oxfordClient := NewOxfordClient(OxfordConfiguration{})
 
 	t.Run("line", func(t *testing.T) {
 		file, _ := os.Open("sample/line_synonym.json")
